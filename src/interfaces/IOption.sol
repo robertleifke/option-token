@@ -3,7 +3,7 @@ pragma solidity 0.5.10;
 // import "./interfaces/OracleInterface.sol";
 // import "./interfaces/UniswapFactoryInterface.sol";
 // import "./interfaces/UniswapExchangeInterface.sol";
-import "./solmate/ERC20.sol";
+import "./lib/solmate/src/tokens/ERC20.sol";
 // import "./packages/IERC20.sol";
 // import "./packages/ERC20Detailed.sol";
 // import "./packages/Ownable.sol";
